@@ -54,10 +54,10 @@ require (
 	github.com/yvasiyarov/gorelic v0.0.0-20180809112600-635ca6035f23 // indirect
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20160601141957-9c099fbc30e9 // indirect
 	go.uber.org/atomic v1.5.0
-	go.uber.org/fx v1.13.1 // indirect
+	go.uber.org/multierr v1.4.0 // indirect
 	go.uber.org/zap v0.0.0-20190327195448-badef736563f
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
+	golang.org/x/net v0.7.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
 	google.golang.org/api v0.7.0
 	gopkg.in/validator.v2 v2.0.0-20180514200540-135c24b11c19
