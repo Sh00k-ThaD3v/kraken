@@ -29,7 +29,7 @@ require (
 	github.com/golang/mock v1.4.4
 	github.com/golang/protobuf v1.3.3
 	github.com/gomodule/redigo v2.0.0+incompatible // indirect
-	github.com/gorilla/handlers v0.0.0-20190227193432-ac6d24f88de4 // indirect
+	github.com/gorilla/handlers v1.3.0 // indirect
 	github.com/gorilla/mux v1.7.3
 	github.com/jackpal/bencode-go v0.0.0-20180813173944-227668e840fa
 	github.com/jinzhu/gorm v1.9.16
@@ -54,11 +54,12 @@ require (
 	github.com/yvasiyarov/gorelic v0.0.0-20180809112600-635ca6035f23 // indirect
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20160601141957-9c099fbc30e9 // indirect
 	go.uber.org/atomic v1.5.0
-	go.uber.org/fx v1.13.1 // indirect
+	go.uber.org/multierr v1.4.0 // indirect
 	go.uber.org/zap v0.0.0-20190327195448-badef736563f
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
+	golang.org/x/tools v0.0.0-20191114200427-caa0b0f7d508 // indirect
 	google.golang.org/api v0.7.0
 	gopkg.in/validator.v2 v2.0.0-20180514200540-135c24b11c19
 	gopkg.in/yaml.v2 v2.2.2
